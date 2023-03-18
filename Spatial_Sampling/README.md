@@ -46,3 +46,12 @@ The code then simulates a spatial log Gaussian process using the
 
 ### Single Realization
 
+![Spatial Realization Single](https://github.com/Diem0n/Sampling-With-R/blob/main/Spatial_Sampling/results/SpatialLogSingleRealization.png?raw=true)
+
+
+### Multiple Realization
+
+![Spatial Realization Mutltiple](https://github.com/Diem0n/Sampling-With-R/blob/main/Spatial_Sampling/results/SpatialLogMultipleRealization.png?raw=true)
+
+
+
