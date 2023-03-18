@@ -41,3 +41,8 @@ The code then simulates a spatial log Gaussian process using the
 ```rmvnorm()``` function and plots the resulting contour map using the ```contour()``` function. Finally, it generates many realizations of the process and plots them using the same ```contour()``` function.
 
 ***To apply spatial kriging to the Alaska Department of Fish and Game shrimp surveys dataset, the code would need to be modified to read in the dataset and compute the weights and estimated values at unobserved locations. This would involve computing the covariance function using the observed values and distances between them, and then solving a system of equations to compute the weights. The estimated values at unobserved locations could then be computed using the weights and observed values.***
+
+## Results
+
+### Single Realization
+
